@@ -151,7 +151,7 @@ img {
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
-    padding-bottom: 48px;
+    margin-bottom: 48px;
     margin-right: auto;
     margin-left: auto;
 }
@@ -257,7 +257,6 @@ img {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    padding-top: 32px;
     margin-bottom: 8px;
 }
 
